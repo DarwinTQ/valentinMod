@@ -6,6 +6,17 @@
 - 🔄 Botones que cambian de tamaño al hacer clic  
 
 ## ¿Cómo funciona?  
-Este proyecto le pide a esa persona especial que sea tu San Valentín, ¡pero no dejamos que diga que no! (El consentimiento es muy importante, esto es solo algo divertido y ligero que no debería usarse para molestar a nadie).  
+Este proyecto le pide a esa persona especial que sea tu San Valentín, ¡pero no dejamos que diga que no! (El consentimiento es muy importante, esto es solo algo divertido y ligero que no debería usarse para molestar a nadie).
+
+## Clona este proyecto  
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/DarwinTQ/valentinMod
+   ```  
+2. Abre `index.html` en tu navegador.  
+
+## ¡Pruébalo y envíaselo a alguien! 
+
+¡Solo te pido que me cuentes qué te responde! 🤭
 
 
