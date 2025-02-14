@@ -183,15 +183,13 @@ button {
     font-family: "Steph", sans-serif; /* Aplica la misma fuente */
 }
 .joker {
-    font-size: 20px;
+    font-size: 16px; /* Aumenta el tamaño de la fuente si es necesario */
     color: rgba(0, 0, 0, 0.5); /* Color negro con transparencia */
     background-color: transparent; /* Fondo transparente */
     border: none; /* Sin borde */
-    padding: 0; /* Sin espaciado interno */
+    padding: 5px 10px; /* Ajusta el espaciado interno para reducir la caja */
     cursor: pointer; /* Cambia el cursor al pasar sobre el texto */
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
+    position: relative; /* Asegúrate de que la posición sea relativa */
     font-family: "Steph", sans-serif; /* Aplica la misma fuente */
 }
 
